@@ -19,6 +19,10 @@ const config: Config = {
         'xl': '1920px',
         '2xl': '2560px',
         '3xl': '3440px',
+      },
+      fontFamily:{
+        opensans:["Open Sans", "sans-serif"],
+        pirata:["Pirata One", "sans-serif"]
       }
     },
   },
